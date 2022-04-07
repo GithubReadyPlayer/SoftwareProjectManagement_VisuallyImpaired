@@ -1,1 +1,1 @@
-# SoftwareProjectManagement_VisuallyImpaired
+视障人士友好的资讯辅助软件
